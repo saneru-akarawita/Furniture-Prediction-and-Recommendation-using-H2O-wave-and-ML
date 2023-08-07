@@ -98,5 +98,5 @@ https://drive.google.com/drive/folders/1oxJftxMKyviCSEqjp7AYcckoC5MS9Jl2?usp=sha
 Enjoy exploring and using the **Furniture Recommendation System** and the **Interior Application**!
 
 Developed by:   Saneru Udana Akarawita
-                University of Colombo, School of Computing
+                (University of Colombo, School of Computing)
 
