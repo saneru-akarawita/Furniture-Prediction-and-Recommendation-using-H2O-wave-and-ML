@@ -1,4 +1,3 @@
-```markdown
 # Furniture Recommendation System and Interior Application
 
 This repository contains two main components: the **Furniture Recommendation System** and the **Interior Application**. These applications are designed to provide users with furniture recommendations and help visualize interior designs.
@@ -101,4 +100,3 @@ Enjoy exploring and using the **Furniture Recommendation System** and the **Inte
 Developed by:   Saneru Udana Akarawita
                 University of Colombo, School of Computing
 
-```
